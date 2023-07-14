@@ -10,7 +10,7 @@
 
 #### Clone repository and install requirements
 
-    git clone ...
+    git clone https://github.com/FelixKohlhas/smartctl2mqtt
     cd smartctl2mqtt
     pip3 install -r requirements.txt
 
